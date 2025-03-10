@@ -1,7 +1,7 @@
 # Mech Interp Red Teaming
 
 A dashboard for analyzing and testing prompts for potential red team attacks using mechanistic interpretability and machine learning.
-
+<img width="1014" alt="image" src="https://github.com/user-attachments/assets/effe9707-89ba-4736-8ddd-9fd0b62c6dc7" />
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/a089f6d3-8a6f-40e7-bc44-beb26a321829" />
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/208e1de2-fbf5-4f86-8494-fc0731bbbd9a" />
 
