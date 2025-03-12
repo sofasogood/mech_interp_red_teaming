@@ -183,9 +183,6 @@ To extend the dashboard with new features:
 2. Update the classifier if needed to handle new feature types
 3. Test thoroughly with various prompt types
 
-## License
-
-[Your License Here]
 
 ## Acknowledgments
 
